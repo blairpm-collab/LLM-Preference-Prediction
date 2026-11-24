@@ -1,6 +1,3 @@
-# LLM-Preference-Prediction
-Honours Dissertation Code - Fine-tuning LLMs to predict human preference using Chatbot Arena conversations.
-
 # LLM Preference Prediction using Chatbot Arena
 
 This repository contains the code and analysis for my Honours dissertation: *Fine-tuning Large Language Models to Predict Human Preference using Chatbot Arena Conversations*.
